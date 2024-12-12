@@ -1,0 +1,3 @@
+﻿  project_update.cpp
+C:\Users\USER\OneDrive\Documents\GitHub\Bank-management-system\project_update.cpp(219,32): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+  project_update.vcxproj -> C:\Users\USER\OneDrive\Documents\GitHub\Bank-management-system\x64\Debug\project_update.exe
